@@ -1,0 +1,245 @@
+/* top nav */
+
+body{
+  font-family: 'Oswald', sans-serif;
+  font-family: 'Source Sans Pro', sans-serif;
+  margin: 0;
+}
+
+.top-color{
+  color: white;
+}
+
+.link-color{
+  font-weight: bold;
+}
+
+.nav-img{
+  width: 4rem;
+  border-radius: 20rem;
+  margin-left: 10px
+}
+/* .fixed{
+  position: fixed;
+} */
+
+/* the body */
+.li-1{
+  color: #E0D8A8;
+  font-family: 'Raleway', sans-serif;
+}
+
+.tract-body{
+  padding: 5% 15%;
+}
+
+
+
+
+/* hearders */
+
+.header-1{
+  color: #E0D8A8;
+  font-weight: 700;
+  font-family: 'Montserrat', sans-serif;
+    background-color: #2F4F4F;
+
+}
+
+.header-2{
+  font-family: 'Montserrat', sans-serif;
+
+}
+
+
+.header-na{
+  text-align: center;
+  color: white;
+  width: 20%;
+  font-size: 100%;
+
+}
+
+.lines{
+  vertical-align: baseline;
+}
+
+.hori{
+  border-style: dotted;
+  border-width: 50%;
+  border-bottom: 0;
+  border-left: 0;
+  border-right: 0;
+
+
+}
+
+
+
+
+
+
+.h1-about{
+  color: #E0D8A8;
+  font-weight: 700;
+  font-family: 'Montserrat', sans-serif;
+    background-color: #2F4F4F;
+}
+
+.header-book{
+    font-family: 'Montserrat', sans-serif;
+}
+
+h2{
+  width: 25rem;
+  color: #E0D8A8;
+  margin: 5% 10% 0 0 ;
+  font-size: 1.3rem;
+  text-align: center;
+  font-family: 'Montserrat', sans-serif;
+}
+
+.header-index{
+  color: #E0D8A8;
+  font-family: 'Montserrat', sans-serif;
+}
+
+.headers-sets{
+  background-color: #2F4F4F;
+  color: #E0D8A8;
+
+  font-family: 'Redressed', cursive;
+}
+
+
+
+.head-message{
+  background-color:#2F4F4F;
+  color: #E0D8A8;
+}
+
+
+
+
+/* cotaner sets */
+.container-fluid-1{
+  background-color:  #2F4F4F;
+  padding-left: 50px;
+  padding-right: 50px;
+  padding-top: 100px;
+  line-height: 2;
+
+}
+
+.container-fluid-2{
+
+  background-color:  white;
+
+  padding-top: 100px;
+  line-height: 2;
+
+}
+
+.contains{
+  padding: 2% 10%;
+
+}
+
+
+
+
+
+
+
+
+#title-nav-side{
+  background-color:  #2F4F4F;
+  padding-left: 150px;
+  padding-right: 150px;
+
+}
+
+#button-section-teb{
+  padding: 7% 15%;
+}
+
+
+
+.last-button{
+  margin: 1rem 0 0 30%;
+}
+
+
+.row-1{
+  padding: 10px 100px 10px 150px;
+}
+
+
+.p-1{
+  text-align: justify;
+}
+
+/* card */
+#button-section-card{
+
+  background-color: #E8D8A0;
+}
+
+#contacts{
+    background-color:  #2F4F4F;
+    color: white
+
+
+}
+
+
+.list-group-item{
+  padding: 0;
+}
+
+.btn-latest-meg{
+  border: 0;
+  text-align: justify;
+}
+
+.icon-s{
+  width: 5%;
+  text-align: left;
+}
+
+
+/* images */
+.img-top{
+  width: 128px;
+  margin: 0 auto;
+}
+.church-pdf{
+  width: 200px;
+  float: left;
+  margin-right: 12px;
+}
+
+.churchs-pdf{
+  width: 200px;
+  float: right;
+  margin-left: 12px;
+}
+
+.b-teb{
+  text-align: justify;
+}
+
+.para-book{
+  text-align: left;
+}
+
+
+.fonts-name{
+
+    font-family: 'Lato', sans-serif;
+}
+
+
+.footer{
+font-family: 'Langar', cursive;
+}
